@@ -1,0 +1,37 @@
+Timestamp,City,Latitude,Longitude,Temperature (°C),Condition
+2025-09-17 17:54:35,Jakarta,-6.2146,106.8451,27.2,overcast clouds
+2025-09-17 17:55:24,Singapore,1.2897,103.8501,29.17,overcast clouds
+2025-09-17 18:05:40,Jakarta,-6.2146,106.8451,27.19,overcast clouds
+2025-09-17 18:05:50,Singapore,1.2897,103.8501,29.08,overcast clouds
+2025-09-17 18:12:46,Kuala Lumpur,3.1431,101.6865,29.25,overcast clouds
+2025-09-17 18:12:53,bangkok,13.75,100.5167,31.13,moderate rain
+2025-09-17 18:12:59,taipei,25.0478,121.5319,30.26,broken clouds
+2025-09-17 18:13:05,Hanoi,21.0245,105.8412,26.91,broken clouds
+2025-09-17 18:13:13,Seoul,37.5683,126.9778,20.73,broken clouds
+2025-09-17 18:13:18,Tokyo,35.6895,139.6917,31.63,few clouds
+2025-09-17 18:13:22,Beijing,39.9075,116.3972,20.41,clear sky
+2025-09-17 18:13:30,Shanghai,31.2222,121.4581,29.29,light rain
+2025-09-17 18:13:35,Macau,22.2006,113.5461,29.34,light rain
+2025-09-17 18:13:40,moscow,55.7522,37.6156,21.33,overcast clouds
+2025-09-17 18:13:46,Pyongyang,39.0339,125.7543,20.6,broken clouds
+2025-09-17 18:13:52,london,51.5085,-0.1257,16.95,overcast clouds
+2025-09-17 18:13:56,Madrid,40.4165,-3.7026,28.39,clear sky
+2025-09-17 18:13:59,Paris,48.8534,2.3488,19.18,overcast clouds
+2025-09-17 18:14:06,Istanbul,41.0351,28.9833,26.29,few clouds
+2025-09-17 18:14:14,Berlin,52.5244,13.4105,17.89,overcast clouds
+2025-09-17 18:14:20,New York,40.7143,-74.006,16.67,overcast clouds
+2025-09-17 18:14:25,Chicago,41.85,-87.65,13.97,clear sky
+2025-09-17 18:14:31,Florida,28.7505,-82.5001,21.97,overcast clouds
+2025-09-17 18:14:35,honolulu,21.3069,-157.8583,25.22,few clouds
+2025-09-17 18:14:41,Mexico City,19.4285,-99.1277,14.94,overcast clouds
+2025-09-17 18:14:44,Lima,-12.0432,-77.0282,16.04,overcast clouds
+2025-09-17 18:14:47,Riyadh,24.6877,46.7219,40.79,broken clouds
+2025-09-17 18:14:53,Amman,31.9552,35.945,28.16,clear sky
+2025-09-17 18:15:01,tehran,35.6944,51.4215,28.88,clear sky
+2025-09-17 19:38:23,Barcelona,41.3888,2.159,29.14,overcast clouds
+2025-09-17 19:38:43,Athena,37.9795,23.7162,30.87,overcast clouds
+2025-09-17 19:38:49,Malta,48.3597,-107.8743,10.78,clear sky
+2025-09-17 19:38:56,Sydney,-33.8679,151.2073,15.53,clear sky
+2025-09-17 19:39:16,Perth,-31.9333,115.8333,14.22,scattered clouds
+2025-09-17 19:43:53,Copenhagen,55.6759,12.5655,17.25,scattered clouds
+2025-09-17 19:44:23,Seattle,47.6062,-122.3321,15.25,clear sky
